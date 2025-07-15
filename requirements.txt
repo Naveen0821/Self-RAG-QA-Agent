@@ -1,0 +1,7 @@
+langgraph
+langchain
+openai>=1.15
+faiss-cpu
+PyMuPDF
+python-dotenv
+langchain-groq
